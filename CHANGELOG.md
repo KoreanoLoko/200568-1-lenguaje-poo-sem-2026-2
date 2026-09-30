@@ -60,6 +60,10 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Conservación de los archivos oficiales `CuentaBancaria.cs` y `Program.cs` en `02_unidad_poo/ejemplos/sistema_bancario/`.
 - Creación del apunte `02_unidad_poo/apuntes/15_validacion_tryparse_sobrecarga_metodos.md`, con `TryParse`, `out`, `??`, validación de texto, validación de rango, `null`, métodos auxiliares y sobrecarga.
 
+- Registro de la `Guía de Laboratorio 06` en `02_unidad_poo/ejercicios/guia_laboratorio_06/enunciado.md`.
+- Conservación de los códigos oficiales `VehiculoEstacionado.cs` y `Program.cs` en `02_unidad_poo/ejercicios/guia_laboratorio_06/ejemplo_oficial/`.
+- Creación del apunte `02_unidad_poo/apuntes/16_estado_global_static_estacionamiento.md`, con estado individual vs. global, contador estático, prevención de doble cobro, operador ternario, `ToUpper()` y formato `:N2`.
+
 ### Fuente pendiente de incorporar
 
 - Guardar el PDF original de la presentación en `00_asignatura/presentacion-asignatura.pdf`.
@@ -77,3 +81,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Guardar el PDF original `Tipos primitivos y clases en C#.pdf` en `02_unidad_poo/clases/Tipos primitivos y clases en C#.pdf`.
 - Si se exporta la Guía de Laboratorio 05 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_05/Guia_de_Laboratorio_05.pdf`.
 - Guardar el archivo original `SistemaBancario.zip` en `02_unidad_poo/ejemplos/sistema_bancario/SistemaBancario.zip`.
+- Si se exporta la Guía de Laboratorio 06 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_06/Guia_de_Laboratorio_06.pdf`.
