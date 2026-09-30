@@ -98,6 +98,11 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Creación del apunte `02_unidad_poo/apuntes/24_namespaces_using_alias_tipos.md`, con namespace clásico, file-scoped namespace, directiva `using`, alias de tipos y resolución conceptual de colisiones de nombres.
 - Registro explícito de que el material describe `IPVG.Sede.Biblioteca.Locker`, pero no entrega su implementación, por lo que no se añadió código inventado para ese tipo.
 
+- Registro de la `Guía de Laboratorio 10` en `02_unidad_poo/ejercicios/guia_laboratorio_10/enunciado.md`.
+- Conservación de los códigos oficiales `Locker.cs` y `Program.cs` en `02_unidad_poo/ejercicios/guia_laboratorio_10/ejemplo_oficial/`.
+- Creación del apunte `02_unidad_poo/apuntes/25_list_foreach_add_find_lambda.md`, con `List<T>`, `Add()`, `Find()`, `Count`, `foreach`, expresiones lambda, declaración inline de `out` y métodos expression-bodied.
+- Registro explícito de las diferencias internas del material: la descripción menciona sobrecarga con `: this(...)` y `ref / out`, pero el código visible muestra un solo constructor y utiliza únicamente `out`.
+
 ### Fuente pendiente de incorporar
 
 - Guardar el PDF original de la presentación en `00_asignatura/presentacion-asignatura.pdf`.
@@ -122,3 +127,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Si se exporta la Guía de Laboratorio 08 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_08/Guia_de_Laboratorio_08.pdf`.
 - Si se exporta el Certamen 1 desde Canvas, guardar la copia original en `03_certamen_1/evaluacion_sistema_prestamos_notebooks/Certamen_1_Sistema_Prestamos_Notebooks.pdf`.
 - Si se exporta la Guía de Laboratorio 09 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_09/Guia_de_Laboratorio_09.pdf`.
+- Si se exporta la Guía de Laboratorio 10 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_10/Guia_de_Laboratorio_10.pdf`.
