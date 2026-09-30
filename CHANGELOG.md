@@ -21,6 +21,9 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Creación del apunte `01_unidad_fundamentos/apuntes/04_program_cs_y_ciclo_desarrollo.md`.
 - Registro de la `Guía de Laboratorio 01` en `01_unidad_fundamentos/ejercicios/guia_laboratorio_01/enunciado.md`.
 - Creación del apunte `01_unidad_fundamentos/apuntes/05_conceptos_guia_laboratorio_01.md` con Top-Level Statements, File-scoped Namespace, estructura de compilación y String Interpolation.
+- Registro de la `Guía de Laboratorio 02` en `01_unidad_fundamentos/ejercicios/guia_laboratorio_02/enunciado.md`.
+- Conservación del código completo entregado por la Guía de Laboratorio 02 en `01_unidad_fundamentos/ejercicios/guia_laboratorio_02/ejemplo_oficial/Program.cs`.
+- Creación del apunte `01_unidad_fundamentos/apuntes/06_tipos_parseo_logica_secuencial.md` con tipos primitivos, camelCase, `Console.ReadLine()`, parseo, inferencia con `var`, lógica secuencial e interpolación.
 
 ### Fuente pendiente de incorporar
 
@@ -28,3 +31,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Guardar el PDF original de la clase 01 en `01_unidad_fundamentos/clases/01S01_Fundamentos_de_la_Plataforma_.NET.pdf`.
 - Guardar el PDF original del material 02S1 en `01_unidad_fundamentos/clases/02S1_C#_Introducción.pdf`.
 - Si se exporta la Guía de Laboratorio 01 desde Canvas, guardar la copia original en `01_unidad_fundamentos/ejercicios/guia_laboratorio_01/Guia_de_Laboratorio_01.pdf`.
+- Si se exporta la Guía de Laboratorio 02 desde Canvas, guardar la copia original en `01_unidad_fundamentos/ejercicios/guia_laboratorio_02/Guia_de_Laboratorio_02.pdf`.
