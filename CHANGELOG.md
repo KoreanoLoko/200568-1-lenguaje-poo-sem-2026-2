@@ -75,6 +75,12 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Registro del laboratorio `Sistema de Impresiones IPVG` en `02_unidad_poo/ejercicios/sistema_impresiones_ipvg/enunciado.md`.
 - Conservación de los fragmentos oficiales de `CuentaImpresion` en `02_unidad_poo/ejercicios/sistema_impresiones_ipvg/fragmento_oficial/CuentaImpresion.cs`.
 
+- Registro de la `Guía de Laboratorio 07` en `02_unidad_poo/ejercicios/guia_laboratorio_07/enunciado.md`.
+- Conservación de los códigos oficiales `CuentaImpresion.cs` y `Program.cs` en `02_unidad_poo/ejercicios/guia_laboratorio_07/ejemplo_oficial/`.
+- Creación del apunte `02_unidad_poo/apuntes/22_cuenta_impresion_constructores_ref_out.md`, con constructores delegados, constructor privado, `ref`, múltiples `out` y retorno `bool`.
+- Registro del desafío `Pre-Certamen 1: Sistema de Impresiones` en `03_certamen_1/ejercicios/desafio_pre_certamen_1_impresiones.md`.
+- Eliminación del archivo marcador `03_certamen_1/ejercicios/.gitkeep` al incorporarse contenido real.
+
 ### Fuente pendiente de incorporar
 
 - Guardar el PDF original de la presentación en `00_asignatura/presentacion-asignatura.pdf`.
@@ -95,3 +101,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Si se exporta la Guía de Laboratorio 06 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_06/Guia_de_Laboratorio_06.pdf`.
 - Si se exporta la página `Apunte de clases` desde Canvas, guardar la copia original en `02_unidad_poo/clases/Apunte_de_clases_operador_punto_parametros.pdf`.
 - Guardar el PDF original `Invocacion y mensajeria y constructores.pdf` en `02_unidad_poo/clases/Invocacion y mensajeria y constructores.pdf`.
+- Si se exporta la Guía de Laboratorio 07 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_07/Guia_de_Laboratorio_07.pdf`.
