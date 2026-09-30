@@ -52,6 +52,10 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Creación del apunte `02_unidad_poo/apuntes/13_cuenta_bancaria_encapsulamiento_static.md`, con constructor, encapsulamiento, miembros de instancia y estáticos, y métodos `Depositar`/`Retirar`.
 - Registro de la actividad `BancoApp` en `02_unidad_poo/ejercicios/banco_app/enunciado.md`, con menú interactivo basado en `do-while` y `switch`.
 
+- Registro de la `Guía de Laboratorio 05` en `02_unidad_poo/ejercicios/guia_laboratorio_05/enunciado.md`.
+- Conservación del código oficial `CuentaBancaria.cs` de la Guía de Laboratorio 05 en `02_unidad_poo/ejercicios/guia_laboratorio_05/ejemplo_oficial/CuentaBancaria.cs`.
+- Creación del apunte `02_unidad_poo/apuntes/14_sistema_bancario_static_constructor_metodos.md`, con miembros estáticos, constructor, propiedades con distintos niveles de acceso, métodos de instancia y método estático.
+
 ### Fuente pendiente de incorporar
 
 - Guardar el PDF original de la presentación en `00_asignatura/presentacion-asignatura.pdf`.
@@ -67,3 +71,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Si se exporta la Guía de Laboratorio 04 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_04/Guia_de_Laboratorio_04.pdf`.
 - Si se exporta la página `Variables Primitivas e Inferencias de Tipo en C#` desde Canvas, guardar la copia original en `02_unidad_poo/clases/Variables_Primitivas_e_Inferencias_de_Tipo_en_CSharp.pdf`.
 - Guardar el PDF original `Tipos primitivos y clases en C#.pdf` en `02_unidad_poo/clases/Tipos primitivos y clases en C#.pdf`.
+- Si se exporta la Guía de Laboratorio 05 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_05/Guia_de_Laboratorio_05.pdf`.
