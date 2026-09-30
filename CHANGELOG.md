@@ -81,6 +81,12 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Registro del desafío `Pre-Certamen 1: Sistema de Impresiones` en `03_certamen_1/ejercicios/desafio_pre_certamen_1_impresiones.md`.
 - Eliminación del archivo marcador `03_certamen_1/ejercicios/.gitkeep` al incorporarse contenido real.
 
+- Registro de la `Guía de Laboratorio 08` en `02_unidad_poo/ejercicios/guia_laboratorio_08/enunciado.md`.
+- Conservación del código oficial `ProcesadorCredito.cs` en `02_unidad_poo/ejercicios/guia_laboratorio_08/ejemplo_oficial/ProcesadorCredito.cs`.
+- Conservación de la `Propuesta de Solución Sugerida` de `Program.cs` en `02_unidad_poo/ejercicios/guia_laboratorio_08/solucion_sugerida/Program.cs`.
+- Creación del apunte `02_unidad_poo/apuntes/23_simulador_credito_valor_ref_out.md`, con parámetros por valor, `ref`, múltiples `out`, retorno `bool`, regla del 30% y conversiones con `Convert`.
+- Registro del desafío `Pre-Certamen 1: Simulador de Crédito` en `03_certamen_1/ejercicios/desafio_pre_certamen_1_simulador_credito.md`.
+
 ### Fuente pendiente de incorporar
 
 - Guardar el PDF original de la presentación en `00_asignatura/presentacion-asignatura.pdf`.
@@ -102,3 +108,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Si se exporta la página `Apunte de clases` desde Canvas, guardar la copia original en `02_unidad_poo/clases/Apunte_de_clases_operador_punto_parametros.pdf`.
 - Guardar el PDF original `Invocacion y mensajeria y constructores.pdf` en `02_unidad_poo/clases/Invocacion y mensajeria y constructores.pdf`.
 - Si se exporta la Guía de Laboratorio 07 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_07/Guia_de_Laboratorio_07.pdf`.
+- Si se exporta la Guía de Laboratorio 08 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_08/Guia_de_Laboratorio_08.pdf`.
