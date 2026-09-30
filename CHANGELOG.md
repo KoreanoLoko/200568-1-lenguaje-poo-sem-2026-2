@@ -29,6 +29,10 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Creación del apunte `02_unidad_poo/apuntes/02_clases_objetos_instanciacion.md`.
 - Creación del apunte `02_unidad_poo/apuntes/03_stack_heap.md`.
 - Creación del apunte `02_unidad_poo/apuntes/04_tipos_valor_referencia.md`.
+- Documentación del PDF `Anatomía de Clases, Puntos de Entrada y Memoria en C#` en `02_unidad_poo/clases/anatomia_clases_puntos_entrada_memoria_csharp.md`.
+- Creación del apunte `02_unidad_poo/apuntes/05_encapsulamiento_campos_propiedades.md`.
+- Creación del apunte `02_unidad_poo/apuntes/06_experimento_copia_struct_class.md`.
+- Registro del desafío `Sistema de Recursos Humanos` en `02_unidad_poo/ejercicios/desafio_sistema_recursos_humanos/enunciado.md`.
 
 ### Fuente pendiente de incorporar
 
@@ -38,3 +42,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Si se exporta la Guía de Laboratorio 01 desde Canvas, guardar la copia original en `01_unidad_fundamentos/ejercicios/guia_laboratorio_01/Guia_de_Laboratorio_01.pdf`.
 - Si se exporta la Guía de Laboratorio 02 desde Canvas, guardar la copia original en `01_unidad_fundamentos/ejercicios/guia_laboratorio_02/Guia_de_Laboratorio_02.pdf`.
 - Si se exporta la página `Clases y objetos` desde Canvas, guardar la copia original en `02_unidad_poo/clases/Clases_y_objetos.pdf`.
+- Guardar el PDF original `Anatomía de Clases, Puntos de Entrada y Memoria en C#.pdf` en `02_unidad_poo/clases/Anatomía de Clases, Puntos de Entrada y Memoria en C#.pdf`.
