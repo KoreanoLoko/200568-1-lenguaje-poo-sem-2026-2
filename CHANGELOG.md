@@ -103,6 +103,12 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Creación del apunte `02_unidad_poo/apuntes/25_list_foreach_add_find_lambda.md`, con `List<T>`, `Add()`, `Find()`, `Count`, `foreach`, expresiones lambda, declaración inline de `out` y métodos expression-bodied.
 - Registro explícito de las diferencias internas del material: la descripción menciona sobrecarga con `: this(...)` y `ref / out`, pero el código visible muestra un solo constructor y utiliza únicamente `out`.
 
+- Documentación del PDF `Arquitectura_Campus_Inteligente.pdf` en `02_unidad_poo/clases/arquitectura_campus_inteligente.md`.
+- Creación del apunte `02_unidad_poo/apuntes/26_arquitectura_modular_campus_inteligente.md`, integrando memoria, encapsulamiento, `static`, `ref/out`, namespaces, `using` y alias.
+- Creación del apunte `02_unidad_poo/apuntes/27_array_arraylist_list_genericos.md`, con comparación entre arrays, `ArrayList` y `List<T>`, type safety y boxing/unboxing según el material.
+- Registro del workshop `Desafío Práctico: Refactorización Estructural` en `02_unidad_poo/ejercicios/desafio_refactorizacion_estructural_campus_inteligente/enunciado.md`, conservando los espacios incompletos de las tres fases sin convertirlos en una solución.
+- Registro de la arquitectura integrada propuesta para el Campus Inteligente: file-scoped namespace, estado encapsulado, miembros `static`, directorio dinámico de lockers e interfaz `do-while` + `switch`.
+
 ### Fuente pendiente de incorporar
 
 - Guardar el PDF original de la presentación en `00_asignatura/presentacion-asignatura.pdf`.
@@ -128,3 +134,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Si se exporta el Certamen 1 desde Canvas, guardar la copia original en `03_certamen_1/evaluacion_sistema_prestamos_notebooks/Certamen_1_Sistema_Prestamos_Notebooks.pdf`.
 - Si se exporta la Guía de Laboratorio 09 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_09/Guia_de_Laboratorio_09.pdf`.
 - Si se exporta la Guía de Laboratorio 10 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_10/Guia_de_Laboratorio_10.pdf`.
+- Guardar el PDF original `Arquitectura_Campus_Inteligente.pdf` en `02_unidad_poo/clases/Arquitectura_Campus_Inteligente.pdf`.
