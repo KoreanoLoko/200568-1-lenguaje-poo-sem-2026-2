@@ -33,6 +33,8 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Creación del apunte `02_unidad_poo/apuntes/05_encapsulamiento_campos_propiedades.md`.
 - Creación del apunte `02_unidad_poo/apuntes/06_experimento_copia_struct_class.md`.
 - Registro del desafío `Sistema de Recursos Humanos` en `02_unidad_poo/ejercicios/desafio_sistema_recursos_humanos/enunciado.md`.
+- Documentación de la página `Ejemplo CS` en `02_unidad_poo/clases/ejemplo_cs_memoria.md`.
+- Conservación del código oficial de `Ejemplo CS` en `02_unidad_poo/ejemplos/ejemplo_cs_memoria/Program.cs`, demostrando copia por valor con `struct Punto` y referencia compartida con `class Jugador`.
 
 ### Fuente pendiente de incorporar
 
@@ -43,3 +45,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Si se exporta la Guía de Laboratorio 02 desde Canvas, guardar la copia original en `01_unidad_fundamentos/ejercicios/guia_laboratorio_02/Guia_de_Laboratorio_02.pdf`.
 - Si se exporta la página `Clases y objetos` desde Canvas, guardar la copia original en `02_unidad_poo/clases/Clases_y_objetos.pdf`.
 - Guardar el PDF original `Anatomía de Clases, Puntos de Entrada y Memoria en C#.pdf` en `02_unidad_poo/clases/Anatomía de Clases, Puntos de Entrada y Memoria en C#.pdf`.
+- Si se exporta la página `Ejemplo CS` desde Canvas, guardar la copia original en `02_unidad_poo/clases/Ejemplo_CS.pdf`.
