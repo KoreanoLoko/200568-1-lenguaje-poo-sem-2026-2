@@ -64,6 +64,10 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Conservación de los códigos oficiales `VehiculoEstacionado.cs` y `Program.cs` en `02_unidad_poo/ejercicios/guia_laboratorio_06/ejemplo_oficial/`.
 - Creación del apunte `02_unidad_poo/apuntes/16_estado_global_static_estacionamiento.md`, con estado individual vs. global, contador estático, prevención de doble cobro, operador ternario, `ToUpper()` y formato `:N2`.
 
+- Documentación de la página `Apunte de clases` en `02_unidad_poo/clases/apunte_clases_operador_punto_parametros.md`.
+- Creación del apunte `02_unidad_poo/apuntes/17_operador_punto_invocacion_metodos.md`.
+- Creación del apunte `02_unidad_poo/apuntes/18_parametros_valor_ref_out.md`, formalizando paso por valor, `ref` y `out`.
+
 ### Fuente pendiente de incorporar
 
 - Guardar el PDF original de la presentación en `00_asignatura/presentacion-asignatura.pdf`.
@@ -82,3 +86,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Si se exporta la Guía de Laboratorio 05 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_05/Guia_de_Laboratorio_05.pdf`.
 - Guardar el archivo original `SistemaBancario.zip` en `02_unidad_poo/ejemplos/sistema_bancario/SistemaBancario.zip`.
 - Si se exporta la Guía de Laboratorio 06 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_06/Guia_de_Laboratorio_06.pdf`.
+- Si se exporta la página `Apunte de clases` desde Canvas, guardar la copia original en `02_unidad_poo/clases/Apunte_de_clases_operador_punto_parametros.pdf`.
