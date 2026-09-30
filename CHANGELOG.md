@@ -87,6 +87,12 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Creación del apunte `02_unidad_poo/apuntes/23_simulador_credito_valor_ref_out.md`, con parámetros por valor, `ref`, múltiples `out`, retorno `bool`, regla del 30% y conversiones con `Convert`.
 - Registro del desafío `Pre-Certamen 1: Simulador de Crédito` en `03_certamen_1/ejercicios/desafio_pre_certamen_1_simulador_credito.md`.
 
+- Registro del caso oficial del `Certamen 1 — Sistema de Préstamos de Notebooks Sede IPVG` en `03_certamen_1/evaluacion_sistema_prestamos_notebooks/enunciado.md`.
+- Registro de la rúbrica oficial de 100 puntos en `03_certamen_1/evaluacion_sistema_prestamos_notebooks/rubrica.md`.
+- Conservación de la solución proporcionada en `03_certamen_1/evaluacion_sistema_prestamos_notebooks/solucion_entregada/NotebookSede.cs` y `Program.cs`.
+- Creación de `03_certamen_1/evaluacion_sistema_prestamos_notebooks/README.md` para trazabilidad de la evaluación y sus fuentes.
+- Creación de `03_certamen_1/temario.md` a partir del caso y la rúbrica oficial del Certamen 1.
+
 ### Fuente pendiente de incorporar
 
 - Guardar el PDF original de la presentación en `00_asignatura/presentacion-asignatura.pdf`.
@@ -109,3 +115,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Guardar el PDF original `Invocacion y mensajeria y constructores.pdf` en `02_unidad_poo/clases/Invocacion y mensajeria y constructores.pdf`.
 - Si se exporta la Guía de Laboratorio 07 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_07/Guia_de_Laboratorio_07.pdf`.
 - Si se exporta la Guía de Laboratorio 08 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_08/Guia_de_Laboratorio_08.pdf`.
+- Si se exporta el Certamen 1 desde Canvas, guardar la copia original en `03_certamen_1/evaluacion_sistema_prestamos_notebooks/Certamen_1_Sistema_Prestamos_Notebooks.pdf`.
