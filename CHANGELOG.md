@@ -37,6 +37,9 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Conservación del código oficial de `Ejemplo CS` en `02_unidad_poo/ejemplos/ejemplo_cs_memoria/Program.cs`, demostrando copia por valor con `struct Punto` y referencia compartida con `class Jugador`.
 - Documentación del material `ControlHoras.zip` en `02_unidad_poo/ejemplos/control_horas/README.md`.
 - Conservación del `Program.cs` proporcionado desde `ControlHoras.zip` en `02_unidad_poo/ejemplos/control_horas/Program.cs`, con `Colaborador`, `RegistroHoras`, propiedad con campo de respaldo, uso de `this` y acumulación de jornadas.
+- Registro de la `Guía de Laboratorio 03` en `02_unidad_poo/ejercicios/guia_laboratorio_03/enunciado.md`.
+- Conservación del código oficial de la Guía de Laboratorio 03 en `02_unidad_poo/ejercicios/guia_laboratorio_03/ejemplo_oficial/Program.cs`.
+- Creación del apunte `02_unidad_poo/apuntes/07_demostracion_empirica_struct_class.md`, con la demostración de copia por valor mediante `CuponDescuento` y referencia compartida mediante `PedidoCafeteria`.
 
 ### Fuente pendiente de incorporar
 
@@ -49,3 +52,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Guardar el PDF original `Anatomía de Clases, Puntos de Entrada y Memoria en C#.pdf` en `02_unidad_poo/clases/Anatomía de Clases, Puntos de Entrada y Memoria en C#.pdf`.
 - Si se exporta la página `Ejemplo CS` desde Canvas, guardar la copia original en `02_unidad_poo/clases/Ejemplo_CS.pdf`.
 - Guardar el archivo original `ControlHoras.zip` en `02_unidad_poo/ejemplos/control_horas/ControlHoras.zip`.
+- Si se exporta la Guía de Laboratorio 03 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_03/Guia_de_Laboratorio_03.pdf`.
