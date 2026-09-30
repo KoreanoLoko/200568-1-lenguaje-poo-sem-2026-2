@@ -109,6 +109,12 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Registro del workshop `Desafío Práctico: Refactorización Estructural` en `02_unidad_poo/ejercicios/desafio_refactorizacion_estructural_campus_inteligente/enunciado.md`, conservando los espacios incompletos de las tres fases sin convertirlos en una solución.
 - Registro de la arquitectura integrada propuesta para el Campus Inteligente: file-scoped namespace, estado encapsulado, miembros `static`, directorio dinámico de lockers e interfaz `do-while` + `switch`.
 
+- Conservación de los archivos fuente adjuntos del sistema integrado de lockers en `02_unidad_poo/ejemplos/campus_inteligente_lockers/`.
+- Registro de `Locker.cs` como implementación coincidente con la Guía de Laboratorio 10: file-scoped namespace, estado encapsulado, acumulador `static`, método `Arrendar(..., out ...)` y `ObtenerRecaudoGlobal()`.
+- Registro de `Program.cs` como variante del ejemplo de la Guía 10, con nombres descriptivos en `List.Find()` y visualización adicional del recaudo global mediante `Locker.ObtenerRecaudoGlobal()`.
+- Normalización del nombre descargado `Program(3).cs` a `Program.cs` sin alterar su contenido fuente.
+- Creación de `02_unidad_poo/ejemplos/campus_inteligente_lockers/README.md` para documentar procedencia, relación con la Guía 10 y diferencias frente al ejemplo oficial.
+
 ### Fuente pendiente de incorporar
 
 - Guardar el PDF original de la presentación en `00_asignatura/presentacion-asignatura.pdf`.
