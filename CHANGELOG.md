@@ -42,6 +42,10 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Creación del apunte `02_unidad_poo/apuntes/07_demostracion_empirica_struct_class.md`, con la demostración de copia por valor mediante `CuponDescuento` y referencia compartida mediante `PedidoCafeteria`.
 - Registro de la `Guía de Laboratorio 04` en `02_unidad_poo/ejercicios/guia_laboratorio_04/enunciado.md`.
 - Creación del apunte `02_unidad_poo/apuntes/08_composicion_struct_en_class.md`, centrado en `DetallePago` embebido en `BandejaAlmuerzo`, composición y análisis de estado compuesto.
+- Documentación de la página `Variables Primitivas e Inferencias de Tipo en C#` en `02_unidad_poo/clases/variables_primitivas_inferencia_tipo_csharp.md`.
+- Creación del apunte `02_unidad_poo/apuntes/09_tipos_primitivos_decimal_var.md`.
+- Creación del apunte `02_unidad_poo/apuntes/10_bifurcacion_iteracion.md`.
+- Creación del apunte `02_unidad_poo/apuntes/11_miembros_instancia_static.md`.
 
 ### Fuente pendiente de incorporar
 
@@ -56,3 +60,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Guardar el archivo original `ControlHoras.zip` en `02_unidad_poo/ejemplos/control_horas/ControlHoras.zip`.
 - Si se exporta la Guía de Laboratorio 03 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_03/Guia_de_Laboratorio_03.pdf`.
 - Si se exporta la Guía de Laboratorio 04 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_04/Guia_de_Laboratorio_04.pdf`.
+- Si se exporta la página `Variables Primitivas e Inferencias de Tipo en C#` desde Canvas, guardar la copia original en `02_unidad_poo/clases/Variables_Primitivas_e_Inferencias_de_Tipo_en_CSharp.pdf`.
