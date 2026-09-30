@@ -56,6 +56,10 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Conservación del código oficial `CuentaBancaria.cs` de la Guía de Laboratorio 05 en `02_unidad_poo/ejercicios/guia_laboratorio_05/ejemplo_oficial/CuentaBancaria.cs`.
 - Creación del apunte `02_unidad_poo/apuntes/14_sistema_bancario_static_constructor_metodos.md`, con miembros estáticos, constructor, propiedades con distintos niveles de acceso, métodos de instancia y método estático.
 
+- Documentación del material `SistemaBancario.zip` en `02_unidad_poo/ejemplos/sistema_bancario/README.md`.
+- Conservación de los archivos oficiales `CuentaBancaria.cs` y `Program.cs` en `02_unidad_poo/ejemplos/sistema_bancario/`.
+- Creación del apunte `02_unidad_poo/apuntes/15_validacion_tryparse_sobrecarga_metodos.md`, con `TryParse`, `out`, `??`, validación de texto, validación de rango, `null`, métodos auxiliares y sobrecarga.
+
 ### Fuente pendiente de incorporar
 
 - Guardar el PDF original de la presentación en `00_asignatura/presentacion-asignatura.pdf`.
@@ -72,3 +76,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Si se exporta la página `Variables Primitivas e Inferencias de Tipo en C#` desde Canvas, guardar la copia original en `02_unidad_poo/clases/Variables_Primitivas_e_Inferencias_de_Tipo_en_CSharp.pdf`.
 - Guardar el PDF original `Tipos primitivos y clases en C#.pdf` en `02_unidad_poo/clases/Tipos primitivos y clases en C#.pdf`.
 - Si se exporta la Guía de Laboratorio 05 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_05/Guia_de_Laboratorio_05.pdf`.
+- Guardar el archivo original `SistemaBancario.zip` en `02_unidad_poo/ejemplos/sistema_bancario/SistemaBancario.zip`.
