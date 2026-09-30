@@ -68,6 +68,13 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Creación del apunte `02_unidad_poo/apuntes/17_operador_punto_invocacion_metodos.md`.
 - Creación del apunte `02_unidad_poo/apuntes/18_parametros_valor_ref_out.md`, formalizando paso por valor, `ref` y `out`.
 
+- Documentación del PDF `Invocacion y mensajeria y constructores.pdf` en `02_unidad_poo/clases/invocacion_mensajeria_constructores.md`.
+- Creación del apunte `02_unidad_poo/apuntes/19_metodos_mensajeria_firma_retorno.md`.
+- Creación del apunte `02_unidad_poo/apuntes/20_constructores_sobrecarga_this.md`, con sobrecarga de constructores y delegación mediante `: this(...)`.
+- Creación del apunte `02_unidad_poo/apuntes/21_ref_out_cuenta_impresion.md`.
+- Registro del laboratorio `Sistema de Impresiones IPVG` en `02_unidad_poo/ejercicios/sistema_impresiones_ipvg/enunciado.md`.
+- Conservación de los fragmentos oficiales de `CuentaImpresion` en `02_unidad_poo/ejercicios/sistema_impresiones_ipvg/fragmento_oficial/CuentaImpresion.cs`.
+
 ### Fuente pendiente de incorporar
 
 - Guardar el PDF original de la presentación en `00_asignatura/presentacion-asignatura.pdf`.
@@ -87,3 +94,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Guardar el archivo original `SistemaBancario.zip` en `02_unidad_poo/ejemplos/sistema_bancario/SistemaBancario.zip`.
 - Si se exporta la Guía de Laboratorio 06 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_06/Guia_de_Laboratorio_06.pdf`.
 - Si se exporta la página `Apunte de clases` desde Canvas, guardar la copia original en `02_unidad_poo/clases/Apunte_de_clases_operador_punto_parametros.pdf`.
+- Guardar el PDF original `Invocacion y mensajeria y constructores.pdf` en `02_unidad_poo/clases/Invocacion y mensajeria y constructores.pdf`.
