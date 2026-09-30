@@ -24,6 +24,11 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Registro de la `Guía de Laboratorio 02` en `01_unidad_fundamentos/ejercicios/guia_laboratorio_02/enunciado.md`.
 - Conservación del código completo entregado por la Guía de Laboratorio 02 en `01_unidad_fundamentos/ejercicios/guia_laboratorio_02/ejemplo_oficial/Program.cs`.
 - Creación del apunte `01_unidad_fundamentos/apuntes/06_tipos_parseo_logica_secuencial.md` con tipos primitivos, camelCase, `Console.ReadLine()`, parseo, inferencia con `var`, lógica secuencial e interpolación.
+- Inicio de la unidad POO con la documentación del material `Clases y objetos` en `02_unidad_poo/clases/clases_y_objetos.md`.
+- Creación del apunte `02_unidad_poo/apuntes/01_punto_entrada_main.md`.
+- Creación del apunte `02_unidad_poo/apuntes/02_clases_objetos_instanciacion.md`.
+- Creación del apunte `02_unidad_poo/apuntes/03_stack_heap.md`.
+- Creación del apunte `02_unidad_poo/apuntes/04_tipos_valor_referencia.md`.
 
 ### Fuente pendiente de incorporar
 
@@ -32,3 +37,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Guardar el PDF original del material 02S1 en `01_unidad_fundamentos/clases/02S1_C#_Introducción.pdf`.
 - Si se exporta la Guía de Laboratorio 01 desde Canvas, guardar la copia original en `01_unidad_fundamentos/ejercicios/guia_laboratorio_01/Guia_de_Laboratorio_01.pdf`.
 - Si se exporta la Guía de Laboratorio 02 desde Canvas, guardar la copia original en `01_unidad_fundamentos/ejercicios/guia_laboratorio_02/Guia_de_Laboratorio_02.pdf`.
+- Si se exporta la página `Clases y objetos` desde Canvas, guardar la copia original en `02_unidad_poo/clases/Clases_y_objetos.pdf`.
