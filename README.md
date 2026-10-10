@@ -24,7 +24,7 @@ Los cambios relevantes del repositorio se registran en [CHANGELOG.md](CHANGELOG.
 
 ## Materia reciente documentada
 
-- [Semana 8 — Encapsulamiento avanzado y herencia en C#](02_unidad_poo/clases/encapsulamiento_y_herencia_en_csharp.md): análisis de las 14 diapositivas y referencia al PDF original por subir.
+- [Semana 8 — Encapsulamiento avanzado y herencia en C#](02_unidad_poo/clases/encapsulamiento_y_herencia_en_csharp.md): análisis de las 14 diapositivas y enlace al PDF original incorporado.
 - [Apunte 28 — Propiedades completas y modificadores de acceso](02_unidad_poo/apuntes/28_propiedades_completas_modificadores_acceso.md).
 - [Apunte 29 — Herencia, constructor base y polimorfismo](02_unidad_poo/apuntes/29_herencia_base_virtual_override.md).
 - [Guía de Laboratorio 11 — SistemaPersonalSede](02_unidad_poo/ejercicios/guia_laboratorio_11/README.md): enunciado original de Canvas y solución de tres archivos C# aportados por el estudiante.

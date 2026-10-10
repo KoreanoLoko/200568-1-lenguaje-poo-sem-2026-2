@@ -127,7 +127,7 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Se verificó que los tres archivos de código en GitHub coinciden con los originales una vez normalizados BOM UTF-8 y finales de línea CRLF a LF.
 - El usuario reportó ejecución y pruebas funcionales satisfactorias; no se declara compilación automática realizada por GitHub.
 - El monto $500.000 se conserva como **condición del ejercicio**, sin verificar legislación laboral.
-- El PDF docente original continúa **pendiente de subida manual**.
+- El PDF docente original fue **incorporado mediante subida manual** en el commit `3933a4a`, y se verificó su contenido binario contra el adjunto original.
 
 ### Fuente pendiente de incorporar
 
@@ -155,4 +155,3 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Si se exporta la Guía de Laboratorio 09 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_09/Guia_de_Laboratorio_09.pdf`.
 - Si se exporta la Guía de Laboratorio 10 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_10/Guia_de_Laboratorio_10.pdf`.
 - Guardar el PDF original `Arquitectura_Campus_Inteligente.pdf` en `02_unidad_poo/clases/Arquitectura_Campus_Inteligente.pdf`.
-- Guardar el PDF original de la Semana 8 en `02_unidad_poo/clases/Encapsulamiento_y_Herencia_en_C.pdf`.

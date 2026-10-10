@@ -62,4 +62,4 @@ dotnet run
 - [Apunte 28: Encapsulación y propiedades](../../apuntes/28_propiedades_completas_modificadores_acceso.md).
 - [Apunte 29: Herencia y polimorfismo](../../apuntes/29_herencia_base_virtual_override.md).
 
-**Pendiente de subir manualmente el PDF original:** `02_unidad_poo/clases/Encapsulamiento_y_Herencia_en_C.pdf`.
+**PDF original disponible en el repositorio:** [Encapsulamiento_y_Herencia_en_C.pdf](../../clases/Encapsulamiento_y_Herencia_en_C.pdf).

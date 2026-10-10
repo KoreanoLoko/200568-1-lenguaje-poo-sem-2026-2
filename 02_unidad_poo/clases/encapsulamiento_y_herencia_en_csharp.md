@@ -2,7 +2,7 @@
 
 **Fuente:** documento oficial «Construyendo el Sistema de Personal IPVG», 14 páginas; Lenguaje de Programación OO, código 0568, Instituto Profesional Virginio Gómez.
 
-**PDF original (subida manual pendiente):** `02_unidad_poo/clases/Encapsulamiento_y_Herencia_en_C.pdf`. Este resumen es derivado, no reemplaza el documento docente.
+**PDF original incorporado y verificado:** [Encapsulamiento_y_Herencia_en_C.pdf](Encapsulamiento_y_Herencia_en_C.pdf), en `02_unidad_poo/clases/`. Este resumen es derivado, no reemplaza el documento docente.
 
 ## Mapa del material por página
 
