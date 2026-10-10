@@ -21,3 +21,10 @@ Este repositorio funcionará como la fuente de verdad documental de la asignatur
 La jerarquía y reglas para determinar qué material constituye la fuente de verdad están definidas en [FUENTE_DE_VERDAD.md](FUENTE_DE_VERDAD.md).
 
 Los cambios relevantes del repositorio se registran en [CHANGELOG.md](CHANGELOG.md).
+
+## Materia reciente documentada
+
+- [Semana 8 — Encapsulamiento avanzado y herencia en C#](02_unidad_poo/clases/encapsulamiento_y_herencia_en_csharp.md): análisis de las 14 diapositivas y referencia al PDF original por subir.
+- [Apunte 28 — Propiedades completas y modificadores de acceso](02_unidad_poo/apuntes/28_propiedades_completas_modificadores_acceso.md).
+- [Apunte 29 — Herencia, constructor base y polimorfismo](02_unidad_poo/apuntes/29_herencia_base_virtual_override.md).
+- [Guía de Laboratorio 11 — SistemaPersonalSede](02_unidad_poo/ejercicios/guia_laboratorio_11/README.md): enunciado original de Canvas y solución de tres archivos C# aportados por el estudiante.

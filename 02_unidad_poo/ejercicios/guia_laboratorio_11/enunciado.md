@@ -40,4 +40,4 @@ Construir una aplicación de consola en C# usando la CLI de .NET (`SistemaPerson
 - [Semana 8 — PDF documentado](../../clases/encapsulamiento_y_herencia_en_csharp.md).
 - [Solución y trazabilidad](README.md).
 
-**Fidelidad:** «mínimo legal» es el término del enunciado; $500.000 se trata como regla académica sin certificar que sea el mínimo legal vigente. Los archivos ¤.cs¤ no son ejemplos oficiales del docente, sino una solución aportada por el estudiante.
+**Fidelidad:** «mínimo legal» es el término del enunciado; $500.000 se trata como regla académica sin certificar que sea el mínimo legal vigente. Los archivos `.cs` no son ejemplos oficiales del docente, sino una solución aportada por el estudiante.

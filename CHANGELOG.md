@@ -115,6 +115,20 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Normalización del nombre descargado `Program(3).cs` a `Program.cs` sin alterar su contenido fuente.
 - Creación de `02_unidad_poo/ejemplos/campus_inteligente_lockers/README.md` para documentar procedencia, relación con la Guía 10 y diferencias frente al ejemplo oficial.
 
+## 2026-10-09
+
+### Documentado y conservado
+
+- El material docente de **Semana 8 — Encapsulamiento avanzado y herencia en C#** se describió por sus 14 páginas en `02_unidad_poo/clases/encapsulamiento_y_herencia_en_csharp.md`.
+- Se añadieron los apuntes `28_propiedades_completas_modificadores_acceso.md` y `29_herencia_base_virtual_override.md`, diferenciando conocimientos nuevos de lo visto previamente.
+- Se transcribió el enunciado oficial de **Guía de Laboratorio 11 — Sistema Integrado de Personal y Recursos Sede IPVG** en `02_unidad_poo/ejercicios/guia_laboratorio_11/enunciado.md`.
+- Se conservó la solución **aportada por el estudiante** (no presentada como código oficial) en `02_unidad_poo/ejercicios/guia_laboratorio_11/solucion_estudiante/`: `ColaboradorSede.cs`, `DocenteSede.cs` y `Program.cs`. El nombre original del adjunto `Program(4).cs` se normalizó a `Program.cs`; contenido funcionalmente idéntico.
+- Se creó `02_unidad_poo/ejercicios/guia_laboratorio_11/README.md` con trazabilidad, matriz de cumplimiento, pruebas reportadas y limitaciones de la solución.
+- Se verificó que los tres archivos de código en GitHub coinciden con los originales una vez normalizados BOM UTF-8 y finales de línea CRLF a LF.
+- El usuario reportó ejecución y pruebas funcionales satisfactorias; no se declara compilación automática realizada por GitHub.
+- El monto $500.000 se conserva como **condición del ejercicio**, sin verificar legislación laboral.
+- El PDF docente original continúa **pendiente de subida manual**.
+
 ### Fuente pendiente de incorporar
 
 - Guardar el PDF original de la presentación en `00_asignatura/presentacion-asignatura.pdf`.
@@ -141,3 +155,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Si se exporta la Guía de Laboratorio 09 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_09/Guia_de_Laboratorio_09.pdf`.
 - Si se exporta la Guía de Laboratorio 10 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_10/Guia_de_Laboratorio_10.pdf`.
 - Guardar el PDF original `Arquitectura_Campus_Inteligente.pdf` en `02_unidad_poo/clases/Arquitectura_Campus_Inteligente.pdf`.
+- Guardar el PDF original de la Semana 8 en `02_unidad_poo/clases/Encapsulamiento_y_Herencia_en_C.pdf`.
