@@ -69,10 +69,10 @@ internal class Program
                         Console.WriteLine("\n=== NOMINA DE LA SEDE ===");
                         foreach (ColaboradorSede colaborador in nomina)
                         {
-                            Console.WriteLine($"RUT: ${colaborador.ObtenerRut()} | Nombre: ${colaborador.Nombre}");
+                            Console.WriteLine($"RUT: {colaborador.ObtenerRut()} | Nombre: {colaborador.Nombre}");
                             Console.WriteLine($"Sueldo base: ${colaborador.SueldoBase:N0} | Sueldo total: ${colaborador.CalcularSueldoTotal():N0}");
                         }
-                        Console.WriteLine($"Total de colaboradores: ${nomina.Count}");
+                        Console.WriteLine($"Total de colaboradores: {nomina.Count}");
                     }
                     break;
 
