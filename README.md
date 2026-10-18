@@ -28,3 +28,6 @@ Los cambios relevantes del repositorio se registran en [CHANGELOG.md](CHANGELOG.
 - [Apunte 28 — Propiedades completas y modificadores de acceso](02_unidad_poo/apuntes/28_propiedades_completas_modificadores_acceso.md).
 - [Apunte 29 — Herencia, constructor base y polimorfismo](02_unidad_poo/apuntes/29_herencia_base_virtual_override.md).
 - [Guía de Laboratorio 11 — SistemaPersonalSede](02_unidad_poo/ejercicios/guia_laboratorio_11/README.md): enunciado original de Canvas y solución de tres archivos C# aportados por el estudiante.
+- [Semana 9 — Arquitectura, herencia y polimorfismo](02_unidad_poo/clases/arquitectura_herencia_y_polimorfismo.md): 11 diapositivas, PDF original pendiente de incorporar.
+- [Apunte 30 — Polimorfismo y despacho dinámico](02_unidad_poo/apuntes/30_polimorfismo_despacho_dinamico_sobrecarga_override.md).
+- [Guía de Laboratorio 12 — GuardiaSede](02_unidad_poo/ejercicios/guia_laboratorio_12/README.md): enunciado y análisis de los cinco archivos adjuntos; no se almacenan fuentes C#.

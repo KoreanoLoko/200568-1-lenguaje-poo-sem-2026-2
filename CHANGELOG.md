@@ -129,6 +129,18 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - El monto $500.000 se conserva como **condición del ejercicio**, sin verificar legislación laboral.
 - El PDF docente original fue **incorporado mediante subida manual** en el commit `3933a4a`, y se verificó su contenido binario contra el adjunto original.
 
+## 2026-10-18
+
+### Documentado — Semana 9 y Guía de Laboratorio 12
+
+- Se analizó el PDF oficial «Arquitectura-Herencia y Polimorfismo.pdf» en `02_unidad_poo/clases/arquitectura_herencia_y_polimorfismo.md`, con trazabilidad página por página de sus once diapositivas.
+- Se añadió `02_unidad_poo/apuntes/30_polimorfismo_despacho_dinamico_sobrecarga_override.md` para diferenciar sobrecarga (compile-time) y sobrescritura virtual (run-time), y documentar `base(...)` / `base.Metodo()`.
+- Se registró el enunciado de Canvas de la Guía de Laboratorio 12 en `02_unidad_poo/ejercicios/guia_laboratorio_12/enunciado.md` (entrega indicada: 16 de octubre, 23:59).
+- Se documentaron, sin subir los archivos fuente, `AdministrativoSede.cs`, `ColaboradorSede(1).cs`, `DocenteSede(1).cs`, `Program(5).cs` y `SistemaGestionPersonal.csproj`, en `02_unidad_poo/ejercicios/guia_laboratorio_12/analisis_archivos_base.md`.
+- El análisis registra las diferencias entre el enunciado y los adjuntos: no hay `GuardiaSede`; faltan tres tipos en la lista; `Program.cs` es secuencial; `CalcularSueldoTotal()` solicitado frente a `CalcularSueldoLiquido()` en el material base.
+- Se creó el README de la guía y se actualizó el índice raíz. **Solo se proyecta conservar el PDF original en GitHub; se deja pendiente de subida manual** a `02_unidad_poo/clases/Arquitectura-Herencia y Polimorfismo.pdf`.
+- No se declara la Guía 12 resuelta ni compilada, ni se publican implementaciones inventadas o archivos .cs/.csproj.
+
 ### Fuente pendiente de incorporar
 
 - Guardar el PDF original de la presentación en `00_asignatura/presentacion-asignatura.pdf`.
@@ -155,3 +167,4 @@ Registro de cambios relevantes en la fuente de verdad de la asignatura.
 - Si se exporta la Guía de Laboratorio 09 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_09/Guia_de_Laboratorio_09.pdf`.
 - Si se exporta la Guía de Laboratorio 10 desde Canvas, guardar la copia original en `02_unidad_poo/ejercicios/guia_laboratorio_10/Guia_de_Laboratorio_10.pdf`.
 - Guardar el PDF original `Arquitectura_Campus_Inteligente.pdf` en `02_unidad_poo/clases/Arquitectura_Campus_Inteligente.pdf`.
+- Guardar el PDF de Semana 9 en `02_unidad_poo/clases/Arquitectura-Herencia y Polimorfismo.pdf`.
