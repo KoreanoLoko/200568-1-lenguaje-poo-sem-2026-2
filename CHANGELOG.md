@@ -2,6 +2,17 @@
 
 Registro de cambios relevantes en la fuente de verdad de la asignatura.
 
+## 2026-10-26
+
+### Repaso Certamen 2 — Cine Sede IPVG
+
+- Se incorporó a `04_certamen_2/repaso_cine_sede_ipvg/` el enunciado de Canvas «Repaso Certamen», sin fecha límite de entrega, con los requisitos del cine institucional.
+- Se respaldaron las cuatro plantillas C# **tal como fueron recibidas funcionalmente**, conservando sus comentarios `// TODO` y secciones pendientes: `Producto.cs`, `EntradaCine.cs`, `SnackCine.cs` y `Program.cs` (archivo originalmente adjunto como `Program(6).cs`). Se normalizan BOM y saltos de línea en el repositorio.
+- Se creó `analisis_plantillas.md` documentando el fallo de compilación por falta de `return` en `Producto.ObtenerDetalle()`, la venta sin `Clear()`, la discrepancia de `out descuentoAplicado` respecto de la fórmula solicitada y la ausencia de un reporte de caja.
+- Se agregó `casos_prueba.md` con escenarios **esperados, no ejecutados**, incluida una entrada 3D IMAX de $8.000, un combo gigante de $3.375 y una boleta total de $11.375.
+- Se añadió `04_certamen_2/temario_repaso_cine_ipvg.md` y el índice de navegación desde el README principal.
+- Este respaldo **no se declara solución completa, código compilado ni rúbrica oficial del Certamen 2**. No se adjuntó archivo `.csproj` ni se modificaron ejercicios previos.
+
 ## 2026-09-30
 
 ### Creado

@@ -31,3 +31,9 @@ Los cambios relevantes del repositorio se registran en [CHANGELOG.md](CHANGELOG.
 - [Semana 9 — Arquitectura, herencia y polimorfismo](02_unidad_poo/clases/arquitectura_herencia_y_polimorfismo.md): 11 diapositivas, PDF original pendiente de incorporar.
 - [Apunte 30 — Polimorfismo y despacho dinámico](02_unidad_poo/apuntes/30_polimorfismo_despacho_dinamico_sobrecarga_override.md).
 - [Guía de Laboratorio 12 — GuardiaSede](02_unidad_poo/ejercicios/guia_laboratorio_12/README.md): enunciado y análisis de los cinco archivos adjuntos; no se almacenan fuentes C#.
+
+## Preparación del Certamen 2 — Repaso Cine Sede IPVG
+
+- [Enunciado y respaldo del Repaso Certamen](04_certamen_2/repaso_cine_sede_ipvg/README.md): taller de consola de venta de entradas y snacks, cuatro plantillas C# recibidas y TODO pendientes.
+- [Temario derivado del repaso](04_certamen_2/temario_repaso_cine_ipvg.md): puntos de estudio sujetos a confirmación por el certamen real.
+- [Análisis estático de las plantillas](04_certamen_2/repaso_cine_sede_ipvg/analisis_plantillas.md) y [casos de prueba calculados](04_certamen_2/repaso_cine_sede_ipvg/casos_prueba.md).
