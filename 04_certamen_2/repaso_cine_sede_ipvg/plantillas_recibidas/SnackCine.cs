@@ -38,7 +38,7 @@ namespace CineIPVG.Core;
     public override string ObtenerDetalle()
     {
         string comboStr = EsCombo ? "COMBO CON BEBIDA" : "INDIVIDUAL";
-        return $"{base.ObtenerDetalle()} | Snack {Tamaño} ({comboStr}) -> Final: $${CalcularPrecioFinal():N2}";
+        return $"{base.ObtenerDetalle()} | Snack {Tamaño} ({comboStr}) -> Final: ${CalcularPrecioFinal():N2}";
     }
 
 }

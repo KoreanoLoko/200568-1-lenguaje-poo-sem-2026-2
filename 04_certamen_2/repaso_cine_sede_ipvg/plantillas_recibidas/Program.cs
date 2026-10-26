@@ -70,6 +70,7 @@ class Program
                         decimal descuentoAplicado;
                         totalBoleta += ProcesarVenta(productoCine, ref cajaGlobalCine, out descuentoAplicado);
                         Console.WriteLine($"");
+
                     }
                         
                     break;

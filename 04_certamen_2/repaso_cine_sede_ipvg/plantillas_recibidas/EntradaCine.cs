@@ -29,7 +29,8 @@ namespace CineIPVG.Core;
     public override string ObtenerDetalle()
     {
         string tipo = Es3D ? "3D" : "2D";
-        return $"{base.ObtenerDetalle()} | Entrada {tipo} (Sala {FormatoSala}) -> Final: $${CalcularPrecioFinal():N2}";
+        return $"{base.ObtenerDetalle()} | Entrada {tipo} (Sala {FormatoSala}) -> Final: ${CalcularPrecioFinal():N2}";
     }
 
 }
+
