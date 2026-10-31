@@ -2,6 +2,17 @@
 
 Registro de cambios relevantes en la fuente de verdad de la asignatura.
 
+## 2026-10-31
+
+### Documentación del Certamen 2 — Ganadería Chan
+
+- Registrado el enunciado de Canvas y su rúbrica de 100 puntos (51 % de exigencia) en `04_certamen_2/ganaderia_chan/`.
+- Conservadas las cuatro plantillas C# pegadas por el estudiante y los avances efectivamente compartidos de `AnimalGanado.cs`, `Bovino.cs` y `Porcino.cs`. No se recibió un `Program.cs` final del estudiante.
+- Documentada una implementación de referencia **propuesta por el asistente**, separada de las fuentes del docente y del código compartido por el estudiante.
+- Registradas las diferencias pendientes: campos `public` en vez de `protected` y método `ObtenerFicha()` no virtual en el último `AnimalGanado.cs` mostrado; fórmula de bonificación especial y semántica de acumulación patrimonial no definidas explícitamente.
+- Añadidos análisis conceptual, mapa de TODO y escenarios numéricos calculados, sin atribuirles ejecución.
+- Se actualizó el README principal. **No se declara compilación exitosa, entrega por Canvas ni calificación oficial.**
+
 ## 2026-10-26
 
 ### Repaso Certamen 2 — Cine Sede IPVG

@@ -37,3 +37,7 @@ Los cambios relevantes del repositorio se registran en [CHANGELOG.md](CHANGELOG.
 - [Enunciado y respaldo del Repaso Certamen](04_certamen_2/repaso_cine_sede_ipvg/README.md): taller de consola de venta de entradas y snacks, cuatro plantillas C# recibidas y TODO pendientes.
 - [Temario derivado del repaso](04_certamen_2/temario_repaso_cine_ipvg.md): puntos de estudio sujetos a confirmación por el certamen real.
 - [Análisis estático de las plantillas](04_certamen_2/repaso_cine_sede_ipvg/analisis_plantillas.md) y [casos de prueba calculados](04_certamen_2/repaso_cine_sede_ipvg/casos_prueba.md).
+
+## Certamen 2 — Ganadería Chan
+
+- [Caso evaluado: Módulo de Gestión de Ventas — Ganadería Chan](04_certamen_2/ganaderia_chan/README.md): enunciado, rúbrica oficial transcrita, cuatro plantillas recibidas, avances del estudiante, propuesta de referencia diferenciada, análisis y pruebas esperadas no ejecutadas.
