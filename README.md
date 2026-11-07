@@ -41,3 +41,10 @@ Los cambios relevantes del repositorio se registran en [CHANGELOG.md](CHANGELOG.
 ## Certamen 2 — Ganadería Chan
 
 - [Caso evaluado: Módulo de Gestión de Ventas — Ganadería Chan](04_certamen_2/ganaderia_chan/README.md): enunciado, rúbrica oficial transcrita, cuatro plantillas recibidas, avances del estudiante, propuesta de referencia diferenciada, análisis y pruebas esperadas no ejecutadas.
+
+## Unidad POO — Interfaces, contratos y Guía 13
+
+- [Presentación «Interfaces y Polimorfismo Transversal»](02_unidad_poo/clases/interfaces_y_polimorfismo_transversal.md): análisis de las 12 diapositivas; **PDF original pendiente de subir** a `02_unidad_poo/clases/Interfaces_y_Polimorfismo_en_C.pdf`.
+- [Apunte 31 — Interfaces y contratos](02_unidad_poo/apuntes/31_interfaces_contratos_polimorfismo_transversal.md): clases abstractas, capacidades, implementación múltiple, `List<IValorable>` y pattern matching.
+- [Guía de Laboratorio 13 — Auditoría Agroindustrial](02_unidad_poo/ejercicios/guia_laboratorio_13/README.md): enunciado de Canvas (sin fecha y 0 puntos), seis fuentes C# docentes, análisis y cálculos esperados no ejecutados.
+- [Fragmentos de clase](02_unidad_poo/clases/transcripciones/fragmentos_interfaces_y_clases_abstractas.md): exposición inicial y observaciones finales sobre evaluaciones, con saltos de transcripción explícitos.

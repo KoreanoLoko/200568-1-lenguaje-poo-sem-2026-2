@@ -2,6 +2,17 @@
 
 Registro de cambios relevantes en la fuente de verdad de la asignatura.
 
+## 2026-11-06
+
+### Incorporación de Interfaces y Guía de Laboratorio 13
+
+- Analizado el PDF docente de 12 diapositivas «Interfaces_y_Polimorfismo_en_C.pdf»; resumen por página en `02_unidad_poo/clases/interfaces_y_polimorfismo_transversal.md`. **El binario PDF original queda pendiente de subida manual** a `02_unidad_poo/clases/Interfaces_y_Polimorfismo_en_C.pdf`.
+- Registrado en `02_unidad_poo/ejercicios/guia_laboratorio_13/` el enunciado de Canvas, con **0 puntos, sin fecha de entrega**, y las seis fuentes `IValorable.cs`, `IExportable.cs`, `AnimalGanado.cs`, `Bovino.cs`, `MaquinariaAgricola.cs`, `Program.cs`. Código reformateado desde el texto recibido y normalizados los escapes Markdown sin agregar funcionalidades.
+- Documentadas las diferencias **entre la presentación (Tractor/LoteManzana/InsumoQuimico, 5 objetos y menú) y Canvas (Bovino/MaquinariaAgricola, 4 objetos y flujo secuencial)**. No se fusionan versiones ni se declara ejecución o compilación exitosa.
+- Agregados el apunte `31_interfaces_contratos_polimorfismo_transversal.md`, el análisis de código y los montos esperados a año 2026, cuya depreciación depende de `DateTime.Now.Year`.
+- Conservados únicamente **los segmentos de transcripción recibidos** (00:03–02:03 y 1:25:01–1:27:07), distinguiendo los porcentajes comentados oralmente de los documentos académicos oficiales y evitando inferir fechas para «el próximo viernes».
+- Actualizado el índice raíz. No se ha subido PDF binario ni se han alterado las fuentes de trabajos previos.
+
 ## 2026-10-31
 
 ### Documentación del Certamen 2 — Ganadería Chan
