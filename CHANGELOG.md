@@ -2,6 +2,18 @@
 
 Registro de cambios relevantes en la fuente de verdad de la asignatura.
 
+## 2026-11-27
+
+### Material posterior a interfaces: Pesquera Chan y excepciones
+
+- Incorporadas las seis plantillas de PesqueraChan y los cinco archivos de MonitoreoFundoIPVG, incluyendo ambos .csproj y .slnx de .NET 10. Se normalizan BOM UTF-8 y finales CRLF a LF, y Program(8).cs / Program(9).cs a Program.cs en carpetas independientes; sin cambios de lógica.
+- Documentados 15 TODO de Pesquera Chan (plantillas incompletas), importes esperados y requisitos no definidos de ProcesarTasacion; no se desarrolla una solución.
+- Registrada la Guía 14 como vacía según el estudiante; sin atribuirle un enunciado o proyecto no confirmado.
+- Analizadas visualmente las 14 diapositivas de Manejo de Excepciones en .NET y C#, con resumen por página, apuntes 32 y 33 y vínculo al PDF original pendiente de subida manual en `02_unidad_poo/clases/Manejo_de_Excepciones_en_.NET.pdf`.
+- Documentados los 12 TODO implementados en el ejemplo de sensores, diferencias respecto a la presentación y casos esperados no ejecutados.
+- Actualizado README; se comprueba la presencia de los PDF previos de interfaces y de arquitectura/herencia en el árbol de main. Se evita describir el repo como privado, ya que su configuración consultada indica público.
+- No se recibió ZIP original de los proyectos; no se ha compilado ninguno. No se incorporó STARONE ni información personal de esa evaluación.
+
 ## 2026-11-06
 
 ### Incorporación de Interfaces y Guía de Laboratorio 13

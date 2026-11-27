@@ -2,7 +2,7 @@
 
 **Fuente primaria:** presentación oficial «Interfaces_y_Polimorfismo_en_C.pdf» (12 páginas; título interno: «Arquitectura Avanzada en C#: Interfaces y Polimorfismo Transversal»).  
 **Aplicación:** Sistema de Auditoría Agroindustrial — Fundo IPVG.  
-**PDF original pendiente de subida manual:** [Interfaces_y_Polimorfismo_en_C.pdf](Interfaces_y_Polimorfismo_en_C.pdf).  
+**PDF original presente en el repositorio:** [Interfaces_y_Polimorfismo_en_C.pdf](Interfaces_y_Polimorfismo_en_C.pdf).  
 **Material relacionado:** [Guía 13](../ejercicios/guia_laboratorio_13/README.md) y [apunte 31](../apuntes/31_interfaces_contratos_polimorfismo_transversal.md).
 
 > Este documento describe las diapositivas observadas. No sustituye el PDF oficial; el código de las diapositivas es **ilustrativo y distinto** del código de Canvas de la Guía 13.
